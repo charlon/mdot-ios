@@ -1,0 +1,6 @@
+framework module Pods_MdotUITests {
+  umbrella header "Pods-MdotUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
